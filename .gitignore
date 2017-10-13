@@ -1,5 +1,6 @@
 *.apk
 *.csproj
+*.DS_Store
 *.sln
 *.userprefs
 Library
