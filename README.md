@@ -35,5 +35,11 @@ traffic!). The way I implemented this specifically was to put the audio into 2D
 mode instead of 3D mode so that it does not pan when you turn your head -- I
 thought that was a more realistic approach.
 
+## Credit
+
+* Background audio courtesy of [klankbeeld] on [freesound.org].
+
 [udacity]: https://www.udacity.com
 [vr-course]: https://www.udacity.com/course/vr-developer-nanodegree--nd017
+[klankbeeld]: https://freesound.org/people/klankbeeld/sounds/259315/
+[freesound.org]: https://freesound.org
